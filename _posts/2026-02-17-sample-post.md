@@ -43,3 +43,16 @@ You can also show code snippets:
 # Trigger a rebuild with an empty commit
 git commit --allow-empty -m "Rebuild site"
 git push
+
+
+---
+
+### ⚡ Key Rules for Code Blocks in Markdown
+- Always start with three backticks: ```` ``` ````  
+- Optionally add a language (e.g., `bash`, `python`, `html`) for syntax highlighting.  
+- Always close with three backticks on a new line.  
+- Don’t indent the backticks — they must be flush left.  
+
+---
+
+👉 If you want to test longer snippets (like Python or HTML), just follow the same pattern. Do you want me to give you a **multi‑language sample post** (with Bash, Python, and HTML blocks) so you can check how your theme styles different code types?
