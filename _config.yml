@@ -2,3 +2,4 @@ title: My Blog
 description: Welcome to my GitHub Pages blog!
 theme: jekyll-theme-hacker
 baseurl: "/username.github.io" # only if your repo is NOT username.github.io
+permalink: /:title/
