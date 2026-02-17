@@ -44,7 +44,13 @@ You can also show code snippets:
 git commit --allow-empty -m "Rebuild site"
 git push
 ```
+Or even programming examples:
+```python
+def greet(name):
+    return f"Hello, {name}!"
 
+print(greet("GitHub Pages"))
+```
 ---
 
 ### ⚡ Key Rules for Code Blocks in Markdown
