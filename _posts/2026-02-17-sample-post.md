@@ -43,7 +43,7 @@ You can also show code snippets:
 # Trigger a rebuild with an empty commit
 git commit --allow-empty -m "Rebuild site"
 git push
-
+```
 
 ---
 
